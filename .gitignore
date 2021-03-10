@@ -1,3 +1,5 @@
 # dependencies
 /node_modules
 
+# não é necessário guardar
+/.idea
