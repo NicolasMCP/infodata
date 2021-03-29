@@ -4,3 +4,4 @@
 # não é necessário guardar
 /.idea
 /e2e
+package-lock.json
