@@ -1,5 +1,5 @@
 # infodata
-Projeto Principal de Software Livre Migrado de [www.infodata.xyz](https://github.com/NicolasMCP/infodata)
+Projeto Principal de Software Livre Migrado de [www.infodata.xyz](https://github.com/NicolasMCP/infodata.xyz)
 
 AREA DE DESENVOLVIMENTO do Site [infodata](https://github.com/NicolasMCP/infodata)
 
