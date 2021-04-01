@@ -1,13 +1,39 @@
 <div>
   <mat-toolbar color="primary" class="sobra-toolbar">
-    <button mat-icon-button>
+<!--    <button mat-icon-button>-->
+<!--      <mat-icon>more_vert</mat-icon>-->
+<!--    </button>-->
+    <button mat-icon-button [matMenuTriggerFor]="menu" aria-label="Example icon-button with a menu">
       <mat-icon>menu</mat-icon>
     </button>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item>
+        <mat-icon>home</mat-icon>
+        <span>Home</span>
+      </button>
+      <button mat-menu-item>
+        <mat-icon>public</mat-icon>
+        <span>Firefox</span>
+      </button>
+      <button mat-menu-item>
+        <mat-icon>public</mat-icon>
+        <span>Chrome</span>
+      </button>
+      <button mat-menu-item>
+        <mat-icon>public</mat-icon>
+        <span>Opera</span>
+      </button>
+      <button mat-menu-item>
+        <mat-icon>public</mat-icon>
+        <span>Internet Explorer</span>
+      </button>
+      <button mat-menu-item>
+        <mat-icon>public</mat-icon>
+        <span>Linux</span>
+      </button>
+    </mat-menu>
     <span>&nbsp; infodata</span>
-    <span class="example-spacer"></span>
-    <button mat-icon-button>
-      <mat-icon>favorite</mat-icon>
-    </button>
+    <span class="spacer"></span>
     <button mat-icon-button>
       <mat-icon>share</mat-icon>
     </button>
