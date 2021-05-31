@@ -10,12 +10,21 @@ AREA DE DESENVOLVIMENTO do Site [infodata](https://github.com/NicolasMCP/infodat
 > Site Infodata, Licença: GNU GPL 3
 
 <br/>
-<br/>
 
-#### [código de infodata](https://github.com/NicolasMCP/infodata/)
+#### [infodata](https://nicolasmcp.github.io/infodata/)
 
-<br/>
-<br/>
+
+#### [código de infodata atualizando](https://github.com/NicolasMCP/infodata/)
+
+
+#### [google drive](https://drive.google.com/drive/folders/0B8C7-DYa7vcUUVRzanFhZENMTFU)
+
+
+#### [youtube](https://www.youtube.com/channel/UCYI7lWiyTmdY8vU6Ub1LZAw)
+
+
+#### [anteriormente infodata.xyz](https://github.com/NicolasMCP/infodata.xyz/blob/master/README.md)
+
 
 **Projeto de Nícolas Ramos**
 <br/>
